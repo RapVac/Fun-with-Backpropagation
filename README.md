@@ -1,5 +1,9 @@
 # Fun with Backpropagation
 
+A series of basic projects to build backpropagating neural networks from scratch.
+
+``backprop.pdf`` and ``src.text`` are the formatted and LaTeX explanations for matrix backpropagation.
+
 ### 3 In a Row
 
 Simple neural net designed to identify 3 objects in a row on a 3x3 grid. Served as a prototype that was then streamlined for image recognition.
@@ -14,7 +18,7 @@ Included files:
 
 ### Shape Recognition
 
-Larger neural net, built on the same principles as the 3 In a Row network. Identifies 65x65 pixel images as containing one of either a cube, cone, square pyramid, sphere, cylinder, or tetrahedron. Achieved decent performance with two layers of 80 neurons, training on 12000 images for 24 hours.
+Larger neural net, built on the same principles as the 3 In a Row network. Identifies 65x65 pixel images as containing one of either a cube, cone, square pyramid, sphere, cylinder, or tetrahedron. Achieved decent performance with two layers of 80 neurons, training on 12,000 images for 24 hours.
 
 Included files:
 
